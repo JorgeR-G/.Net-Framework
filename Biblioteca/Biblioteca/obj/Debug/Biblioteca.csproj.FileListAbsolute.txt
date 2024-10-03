@@ -1,0 +1,7 @@
+C:\Users\Usuario\OneDrive\Escritorio\.Net\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\.Net\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\Usuario\OneDrive\Escritorio\.Net\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Usuario\OneDrive\Escritorio\.Net\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\.Net\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\.Net\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\Usuario\OneDrive\Escritorio\.Net\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb

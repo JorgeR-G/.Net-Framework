@@ -1,0 +1,7 @@
+C:\Users\Usuario\OneDrive\Escritorio\.Net\Generador de Contraseñas\Generador de Contraseñas\bin\Debug\Generador de Contraseñas.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\.Net\Generador de Contraseñas\Generador de Contraseñas\bin\Debug\Generador de Contraseñas.exe
+C:\Users\Usuario\OneDrive\Escritorio\.Net\Generador de Contraseñas\Generador de Contraseñas\bin\Debug\Generador de Contraseñas.pdb
+C:\Users\Usuario\OneDrive\Escritorio\.Net\Generador de Contraseñas\Generador de Contraseñas\obj\Debug\Generador de Contraseñas.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\.Net\Generador de Contraseñas\Generador de Contraseñas\obj\Debug\Generador de Contraseñas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\.Net\Generador de Contraseñas\Generador de Contraseñas\obj\Debug\Generador de Contraseñas.exe
+C:\Users\Usuario\OneDrive\Escritorio\.Net\Generador de Contraseñas\Generador de Contraseñas\obj\Debug\Generador de Contraseñas.pdb
