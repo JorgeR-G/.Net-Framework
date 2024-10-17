@@ -1,0 +1,7 @@
+C:\Users\Usuario\OneDrive\Escritorio\.Net\Explorador de Archivos\Explorador de Archivos\bin\Debug\Explorador de Archivos.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\.Net\Explorador de Archivos\Explorador de Archivos\bin\Debug\Explorador de Archivos.exe
+C:\Users\Usuario\OneDrive\Escritorio\.Net\Explorador de Archivos\Explorador de Archivos\bin\Debug\Explorador de Archivos.pdb
+C:\Users\Usuario\OneDrive\Escritorio\.Net\Explorador de Archivos\Explorador de Archivos\obj\Debug\Explorador de Archivos.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\.Net\Explorador de Archivos\Explorador de Archivos\obj\Debug\Explorador de Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\.Net\Explorador de Archivos\Explorador de Archivos\obj\Debug\Explorador de Archivos.exe
+C:\Users\Usuario\OneDrive\Escritorio\.Net\Explorador de Archivos\Explorador de Archivos\obj\Debug\Explorador de Archivos.pdb
