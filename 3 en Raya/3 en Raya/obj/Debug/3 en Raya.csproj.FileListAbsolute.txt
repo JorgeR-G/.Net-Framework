@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\3 en Raya\3 en Raya\bin\Debug\3 en Raya.exe.config
+C:\Users\Usuario\source\repos\3 en Raya\3 en Raya\bin\Debug\3 en Raya.exe
+C:\Users\Usuario\source\repos\3 en Raya\3 en Raya\bin\Debug\3 en Raya.pdb
+C:\Users\Usuario\source\repos\3 en Raya\3 en Raya\obj\Debug\3 en Raya.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\3 en Raya\3 en Raya\obj\Debug\3 en Raya.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\3 en Raya\3 en Raya\obj\Debug\3 en Raya.exe
+C:\Users\Usuario\source\repos\3 en Raya\3 en Raya\obj\Debug\3 en Raya.pdb
